@@ -1,0 +1,292 @@
+.header-container {
+  background:#2C6700;
+}
+
+.top-menu a {color: #fff;}
+.top-menu a:hover {color: #9effc7;}
+.nice-menu-down li {border-right:1px solid #199527;}
+.emblem h1{color:#2C6700;}
+
+.footer{background:#2C6700;}
+.left-menu{background: #8EC962;}
+.markermenu ul li a {
+  background: url("bulletlist.gif") no-repeat scroll 3px center #8EC962;
+  border-bottom: 1px dotted #B5B5B5;
+  color: #00014E;
+  display: block;
+  font: bold  "Lucida Grande","Trebuchet MS",Verdana,Helvetica,sans-serif;
+  padding: 7px 0 7px 20px;
+  text-decoration: none;
+  width: auto;
+}
+.markermenu ul li a:hover, .markermenu ul li a.selected {
+  background: url("white-arrow.jpg") no-repeat scroll 3px center #2C6700;
+  color: #FFFFFF;
+}
+.visitors-count,.last-updated-on{color:#fff;}
+.footer li a {
+  color: #FFFFFF;
+  font-size: 13px;
+  padding: 5px 0px;
+  text-decoration: none;
+}
+.footer p {
+  color: #FFFFFF;
+  padding: 8px 0;
+}
+.footer li {
+  color: #FFFFFF;
+  list-style:outside none none;
+}
+.dg-desk {
+  background-color: #8EC962;
+  border: 1px solid #2C6700;
+}
+.related-link h1{
+	background-color:#2C6700;
+}
+.dg-desk h1{
+	background-color:#2C6700;
+}
+div#nav li:hover, div#nav li.sfhover ,div#nav li li:hover, div#nav li li.sfhover{
+  background: #2C6700;
+}
+div#nav li:hover ul, div#nav li li:hover ul, 
+div#nav li li li:hover ul, 
+div#nav li li li li:hover ul,
+div#nav li.sfhover ul, 
+div#nav li li.sfhover ul,
+div#nav li li li.sfhover ul,
+div#nav li li li li.sfhover ul
+{background:#66A13A;}
+.related-link li {
+  list-style: disc outside url("../images/orange-bullet.jpg");
+}
+.related-link a {
+  color: #000000;
+  text-decoration: none;
+}
+.about h2.heading {
+  background-color: #2C6700;
+  color: #FFFFFF;
+}
+.left-links > h2 {
+  background:#66A13A;	
+}
+.left-links a{background:#66A13A;}
+.left-links a:hover{ background:#2C6700;}
+.about-us h1{background:#2C6700; color:#fff;}
+table a{color:#66A13A;}
+.related-link h2.related {background: #d9edca none repeat scroll 0 0;}
+.dg-desk h2.sub-heading { background: #d9edca none repeat scroll 0 0;}
+.news {background: #8ec962 none repeat scroll 0 0;}
+.news h2.sub-heading{ background: #d9edca none repeat scroll 0 0;}
+
+.top-menu-bg {
+    background-color: #09612e;
+}
+
+.navigation-bg {
+    background-color: #207e48;
+}
+
+h2 {color: #16b75b;}
+
+.mt-news a {
+    color: #fff;
+    background-color: #09612e;
+    border-right: 1px solid #1b8133;
+}
+
+.latest-update {
+    background: #1f7d47;
+}
+
+    .latest-update:after {
+        border-left-color: #1f7d47;
+    }
+
+    .latest-update:before {
+        border-left-color: #1f7d47;
+    }
+
+.top-menu li {
+    border-right: 1px solid #1e7e00;
+}
+
+.logo h1 a {
+    color: #09612e;
+}
+
+    .logo h1 a:hover {
+        color: #02365e;
+    }
+
+.nice-menu-down ul li {
+    background: #09612e;
+    border-bottom: 1px solid #1e7e00;
+}
+
+.nice-menu-down ul ul li {
+    background: #207e48;
+}
+
+.nice-menu-down li:hover,
+.nice-menu-down li.sfHover {
+    background: #33905a;
+}
+
+.for-print h2 {
+    background-color: #09612e;
+}
+
+.content-area table th {
+    background-color: #09612e;
+    border: #1e7c46 1px solid;
+}
+
+
+.footer {
+    background: #1f313a;
+}
+
+.copy-right {
+    background-color: #0f1c22;
+}
+
+.footer h4 {
+    color: #fff;
+}
+
+.footer li a, .footer p, .footer li {
+    color: #ccc;
+}
+
+.footer li, .footer p {
+    border-bottom:1px solid #087a05;
+}
+
+/* provide some minimal visual accomodation for IE8 and below */
+.content-area table tr {
+    background-color: #fff;
+}
+    /*  Define the background color for all the ODD background rows  */
+    .content-area table tr:nth-child(odd) {
+        background-color: #fff;
+    }
+    /*  Define the background color for all the EVEN background rows  */
+    .content-area table tr:nth-child(even) {
+        background-color: #dbffea;
+    }
+
+
+div.bhoechie-tab-menu div.list-group > a.active,
+div.bhoechie-tab-menu div.list-group > a.active .glyphicon,
+div.bhoechie-tab-menu div.list-group > a.active .fa {
+    background-color: #09612e;
+    background-image: #09612e;
+}
+
+    div.bhoechie-tab-menu div.list-group > a.active:after {
+        border-left: 10px solid #09612e;
+    }
+
+
+div.bhoechie-tab-menu div.list-group > a .glyphicon,
+div.bhoechie-tab-menu div.list-group > a .fa {
+    color: #09612e;
+}
+
+div.bhoechie-tab-content h2 {
+    color: #09612e;
+}
+
+#vertical-ticker li a {
+    color: #09612e;
+}
+
+#vertical-ticker li span {
+    color: #09612e;
+}
+
+.breadcrum-margin-top {
+    background-color: #d2fce4;
+}
+
+.content-area h2 {
+    color: #df7800;
+}
+
+.modern-ticker1 .mt-controls1 .mt-next1 {
+    background-color: #fff !important;
+}
+
+.ticker1 .mt-controls .mt-next {
+    background-color: #1f7d47 !important;
+}
+
+.content-area h2, .content-area h3 {
+    color: #09612e;
+}
+
+.mt-prev {
+    background-color: #1f7d47;
+}
+
+.mt-play {
+    background-color: #1f7d47;
+}
+
+a {
+    color:#09612e;
+}
+
+.content-area .panel-primary {
+    border-color: #207e48;
+}
+
+    .content-area .panel-primary > .panel-heading {
+        color: #fff;
+        background-color: #207e48;
+        border-color: #207e48;
+    }
+
+.content-area .nav-tabs li a {
+    background-color: #09612e;
+    color: #FFF;
+}
+
+.with-nav-tabs.panel-primary .nav-tabs > .open > a,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > .open > a:focus,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li > a:focus {
+    color: #fff;
+    background-color: #02365e;
+    border-color: transparent;
+}
+
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:hover,
+.with-nav-tabs.panel-primary .nav-tabs > li.active > a:focus {
+    color: #428bca;
+    background-color: #fff;
+    border-color: #09612e;
+    border-bottom-color: transparent;
+}
+
+.footer {background-color:#09612e;}
+.rectangle-background {background-color:#b9ffdc;}
+.projects {background:#3ba159;}
+.our-project-heading::before {border-top:2px solid #333; border-left:2px solid #333;}
+.our-project-heading::after {border-bottom:2px solid #333; border-right:2px solid #333;}
+
+.program-bx::before {border-top:2px solid #09612e; border-left:2px solid #09612e;}
+.program-bx::after {border-bottom:2px solid #09612e; border-right:2px solid #09612e;}
+.program-bx hr {background-color: #09612e;}
+
+.our-programs-heading::before {border-top:2px solid #09612e; border-left:2px solid #09612e;}
+.our-programs-heading::after {border-bottom:2px solid #09612e; border-right:2px solid #09612e;}
+.program-bx a, .latest-news-items a, .our-project .read-more a{background-color:#09612e; color:#fff;}
+
+

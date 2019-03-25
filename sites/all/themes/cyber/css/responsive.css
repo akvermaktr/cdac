@@ -1,0 +1,141 @@
+@media screen and (max-width:1366px) and (min-width:991px) {
+.last-update {font-size: 90%;}
+.login{ margin:0px;}
+.logo-top form{ width:71%; float: right; margin: 0px;}
+
+.rectangle-background ul li {margin:15px  7px  15px  7px;}
+
+}
+
+
+
+@media screen and (max-width:991px){
+.buttons-b h3{font-size: 120%;}
+.footer-background{}
+.topmm {width:100%;}
+.search-part {width:100%;}
+.social-icons ul {text-align: left; }
+.last-update {float: none; text-align:center;}
+.social-icons {width: 100%;}
+.logo-img{width:15%; text-align: center; display: block; margin: 0px auto; margin-top:15px;}
+.logo h1 { text-align: center; margin:0px;}
+.logo p {text-align: center; font-size:100%;}
+.logo-sub-heading {font-size: 90%; margin-top: 4px; line-height:22px;}
+.logo-top a img {display: block;float: none !important; margin: 0px auto;}
+.skip-to-m-h, .screen-reader-m-h, .accessbility-m-h, .sitemap-m-h, .search-m-h{ display:none;}
+.latest-news-items .published-date { width:31%; float:left; text-align:center;}
+.latest-news-items .published-date p{ text-align:center;}
+.latest-news-items .published-date h3{ text-align:center;}
+.latest-news-items .news-img img{ width:100%;}
+.our-project {width: 100%; position: inherit;}
+.our-project {margin: 20px 0px 20px 0px; width: 100%; position: inherit;}
+.mt-controls1 {margin-left: 0px;margin-top:30px !important;}
+.mt-scroll .mt-news { background-color: transparent; margin:10px  0px  10px  0px;}
+.process-form fieldset legend {width:90%;}
+.projects-home-b{ padding-right:15px;}
+.projects-home-b1{ padding-left:15px;}
+.projects-home-bx-text {margin:0px;}
+.our-programs-heading {width: 70%;}
+.publication-items::before {top:-5px;}
+.publication-items::after {bottom:-5px;}
+.visitor-count {text-align: center;}
+
+}
+
+@media only screen and (max-width: 768px) {
+.logo-img{width:20%; text-align: center; display: block; margin: 0px auto; margin-top:15px;}
+.logo h1 { text-align: center; font-size:170%; margin:0px;}
+.logo p {text-align: center; font-size:100%;}
+.logo-sub-heading {font-size: 90%; margin-top: 4px; line-height:22px;}
+.carousel-caption {display:none;}	
+.mt-scroll .mt-news {background-color: transparent; margin-top:37px;}
+.v-all-about {position: relative; bottom: 10px;right: 0px;width: 100%;padding-top: 5px;}
+.about-us p {padding: 10px 10px 15px 0px;}
+.home-page-t { padding-bottom:15px; text-align:center; float:none;}		
+.footer li {border-right: none;display: 
+block; font-size: 90%; line-height: 30px; text-align: left;}
+.footer-logo-bg {background: #ececec none repeat scroll 0 0; margin-top: 40px;}
+*::before, *::after { box-sizing: border-box;}
+*::before, *::after {box-sizing: border-box;}	
+.sf-menu li {background-image: none;padding: 10px;width: 100%;}
+.chart-point1{float:none; width:100%; padding-bottom:5px;}
+.footer-left{ width:100%;}
+.footer-right{text-align:left; float:left;}
+.skip-to-m-h, .screen-reader-m-h, .accessbility-m-h, .sitemap-m-h, .search-m-h{ display:none;}
+.n-play-pause {margin: 3px 20px 0 5px;}
+.breadcrumb > .active {color: #777;line-height: 24px;}
+.content-area h2 {font-size: 128%;line-height: 25px;}
+.sf-menu ul ul {left: 0px;top: 0;}
+.carousel-caption p{ font-size:84%;}
+.footer-background{ background-image: none; background-color:#fff !important;}
+.message-readmor {margin-bottom: 15px;}
+.topmm {width: 100%;}
+.search-part {width: 100%;}
+.readmore1 a {margin-top: 10px;}
+.objective-icons {width: 100%;float: left;}
+.icons-part {margin-top:15px;}
+.objective-icons {margin-bottom: 15px;}
+.footer-right{ line-height:30px;}
+.grid .box {width: 100%; border-bottom: 1px solid #ccc; border-right:none;}
+.footer-background { margin-top:30px; padding:0px;}
+.user-link {margin-left:0px;}
+#custom-search-input {width:100%; margin-top: 10px;}
+.latest-update{font-size: 115%;}
+.navigation-bg {background-color:#ecf0f5; border-bottom: none;}
+.social-icons ul { float:none; text-align: center; display: block;}
+.social-icons ul li {float: none;margin-right: 5px; display: inline-block;}
+.footer-left {text-align: center;}
+.footer-right { text-align: center; float: none;}
+.footer-centre {line-height: 22px;}
+.footer h4 {color: #FFF; background-color:#333; line-height:30px; padding:10px;}
+.latest-update .fa-bell {display: none;}
+.copy-right{ line-height:24px;}
+.last-update{ text-align:center; line-height:24px; padding:10px;}
+.visitor-count{ text-align:center;}	
+.login {float:none; text-align: center; width: 100%; margin: 0px;}
+.logo-top {margin-top:5px;}
+.logo-top form{ text-align:center;}
+.process-form fieldset legend {width:90%;}
+.logo-top a img { display:block; float:none !important; margin:0px auto;}
+.mt-controls1 {margin-left: 0px;margin-top:30px !important;}
+.mt-scroll .mt-news { background-color: transparent; margin:10px  0px  10px  0px;}
+.process-form fieldset legend {width:90%;}
+
+}
+
+@media screen and (max-width: 520px) and (min-width: 20px) {
+#vertical-ticker li {padding: 5px 0px 5px 5px;display: block;text-align: left; font-size: 95%; font-weight: 400;  float: left; line-height: 23px; width: 100%; color: #000;}
+#vertical-ticker li span {width: 100%; text-align: left; float: left; line-height: 22px;}
+.mt-controls1 {margin-left: 0px;margin-top:30px !important;}
+.mt-scroll .mt-news { background-color: transparent; margin:10px  0px  10px  0px;}
+.rectangle-background ul li { width:100%;}
+.logo-img{text-align: center; display: block; margin: 0px auto; margin-top:10px;}
+.logo h1 { text-align: center; font-size:145%;}
+.logo p {text-align: center; font-size:100%; line-height:22px;}
+.body-part .administration-name{font-size: 150%;}
+.body-part .administration{margin-bottom:15px;}
+.copy-right{ line-height:24px;}
+.last-update{ text-align:center; line-height:24px; padding:10px;}
+.visitor-count{ text-align:center;}	
+.login {float:none; text-align: center; width: 100%; margin: 0px;}
+.logo-top {margin-top:5px;}
+.process-form fieldset legend {width:90%;}
+.chart-part p{width:100%;}
+.rectangle-background ul li {width:90%;}
+.our-programs h2{word-wrap: break-word; font-size:125%;}
+.our-programs-heading {width: 65%;}
+.latest-news-items .published-date{width:29%;}
+.projects-home-bx-text {margin:0px; padding:15px;}
+.projects-home-bx-text .nav li a{ padding:5px; font-size:70%;}
+.projects-home {margin:15px 0px 0px 0px;}
+.projects {margin:15px 0px;}
+.our-project h2 {font-size:140%;}
+.projects-home-heading p{ text-align:center;}
+.program-bx h3 {font-size: 85%;}
+
+}
+
+
+
+
+

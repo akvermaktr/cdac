@@ -93,9 +93,9 @@
         </div>
     </div>
 	
-
+<div id="MainDiv"> 
 <?php print render($page['content']); ?>
-
+</div>
 
 <!-- End Our Programs Section -->
 

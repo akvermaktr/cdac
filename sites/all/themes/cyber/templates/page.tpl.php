@@ -74,7 +74,7 @@
 
   <div class="container-fluid about-us-inner-page">
 	<div class="row">
-  <div class="container">
+  <div id="MainDiv" class="container">
 	<div class="row">
     <div class="col-md-12">
     <h2 class="heading"><?php print $title ?> </h2>
@@ -85,7 +85,7 @@
     
 
     </div>
-<div class="container">
+<div  class="container">
 <div class="row">
   <div class="col-md-12">
    <?php print render($breadcrumb); ?> 

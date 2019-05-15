@@ -2037,7 +2037,11 @@ background: linear-gradient(top left, #BA1344, #B9B916);}
   
   
 }
-
+.breadcrumb__list {
+    margin: 0px;
+    padding: 0px;
+    display: inline-flex;
+}
 .breadcrumb__item {
     display: inline-block;
 float: left;

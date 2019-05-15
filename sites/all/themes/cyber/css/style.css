@@ -2052,3 +2052,15 @@ margin-top: 4px;
 .breadcrumb__title {
     margin-top: 5px;
 }
+
+
+.tabs li.tabs__tab {
+    display: inline;
+    background: #ccc;
+    padding: 5px;
+    border-radius: 5px 5px 0 0;
+}
+
+.visually-hidden {
+    display: none;
+}

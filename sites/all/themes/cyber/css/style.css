@@ -2037,3 +2037,7 @@ background: linear-gradient(top left, #BA1344, #B9B916);}
   
   
 }
+
+.breadcrumb__item {
+    display: inline- block;
+}

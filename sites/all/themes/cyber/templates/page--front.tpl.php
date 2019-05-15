@@ -24,8 +24,12 @@
                     <li class="blue-theme screen-reader-m-h"><a href="javascript:void(0);" title="blue" onclick="chooseStyle('style', 60);"><img src="<?php echo  $base_path . $directory ?>/images/blue-theme.png"></a></li>
                     <li class="green-theme screen-reader-m-h"><a href="javascript:void(0);" title="Green" onclick="chooseStyle('green', 60);"><img src="<?php echo  $base_path . $directory ?>/images/green.png"></a></li>
                     <li class="orange-theme screen-reader-m-h"><a href="javascript:void(0);" title="Orange" onclick="chooseStyle('orange', 60);"><img src="<?php echo  $base_path . $directory ?>/images/orange.png"></a></li>
-                    <li><a href="#" title="हिंदी">हिंदी <span class="hidethis">Hindi Link:This will open in new window.</span></a></li> 
+          
+ <?php  $block = module_invoke('locale', 'block_view', 'language');
+ print $block['content'];
+ ?>
                 </ul> 
+				
 		</div>
     </div>	
 <!-- End Top Menu for GIGW -->

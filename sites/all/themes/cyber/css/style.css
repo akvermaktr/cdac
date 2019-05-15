@@ -2015,3 +2015,22 @@ background: linear-gradient(top left, #BA1344, #B9B916);}
     z-index: 1;}
     
     .nice-menu-hide-title{display:none;}
+	
+
+
+.top-menu ul.language-switcher-locale-url {
+  display: inline-block;
+  position: static;
+}
+
+.top-menu ul.language-switcher-locale-url li.active {
+ display:none;
+}
+
+.top-menu ul.language-switcher-locale-url li{
+  margin:0;
+  padding:0;
+  background: none;
+  
+  
+}

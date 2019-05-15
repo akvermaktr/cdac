@@ -44,7 +44,7 @@
 					<div class=" logo">
 					<img src="<?php echo  $base_path . $directory ?>/images/cyber-forensic-logo.png" title="Cyber Forensic" alt="cyber-forensic" class="img-responsive logo-img">
 						<p class="logo-sub-heading">Resource Centre for</p>
-						<h1><a href="#">Cyber Forensics - India</a></h1> 
+						<h1><a href="/">Cyber Forensics - India</a></h1> 
 					</div>
 	</div>
 

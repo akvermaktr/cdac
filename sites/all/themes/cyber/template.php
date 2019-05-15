@@ -137,7 +137,7 @@ function STARTERKIT_preprocess_comment(&$variables, $hook) {
 }
 // */
 
-
+/*
 function cyber_css_alter(&$css) {
     $themes=list_themes();
           foreach($css as $key=>$item) {
@@ -157,4 +157,4 @@ function cyber_js_alter(&$js) {
         }
     }
 }
-
+*/

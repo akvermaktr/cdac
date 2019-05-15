@@ -1821,3 +1821,22 @@ tr.drag-previous {
 .tree-child-horizontal {
   background-position: -11px center;
 }
+
+
+
+.top-menu ul.language-switcher-locale-url {
+  display: inline-block;
+  position: static;
+}
+
+.top-menu ul.language-switcher-locale-url li.active {
+ display:none;
+}
+
+.top-menu ul.language-switcher-locale-url li{
+  margin:0;
+  padding:0;
+  background: none;
+  
+  
+}

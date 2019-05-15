@@ -2017,7 +2017,10 @@ background: linear-gradient(top left, #BA1344, #B9B916);}
     .nice-menu-hide-title{display:none;}
 	
 
-
+.top-menu {
+	overflow: hidden;
+	
+}
 .top-menu ul.language-switcher-locale-url {
   display: inline-block;
   position: static;

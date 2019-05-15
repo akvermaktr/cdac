@@ -49,7 +49,7 @@
 	<div class="col-md-5">
 						
 					<div class=" logo">
-					<img src="http://niltd.in/cyber_forensics//images/cyber-forensic-logo.png" title="Cyber Forensic" alt="cyber-forensic" class="img-responsive logo-img">
+					<img src="<?php echo  $base_path . $directory ?>/images/cyber-forensic-logo.png" title="Cyber Forensic" alt="cyber-forensic" class="img-responsive logo-img">
 						<p class="logo-sub-heading">Resource Centre for</p>
 						<h1><a href="/">Cyber Forensics - India</a></h1> 
 					</div>
@@ -63,7 +63,7 @@
                                 ?>
 				
 				
-<img src="http://niltd.in/cyber_forensics//images/cdac-logo.png" alt="CDAC" class="cdac-lo">
+<img src="<?php echo  $base_path . $directory ?>/images/cdac-logo.png" alt="CDAC" class="cdac-lo">
 	</div>
 </div>
 </div>
@@ -91,7 +91,7 @@
 <div class="row">
   <div class="col-md-12">
    <?php print render($breadcrumb); ?> 
- <a class="print" onclick="javascript: window.print()" title="Print" href="javascript: void(0)"> <img src="http://niltd.in/cyber_forensics/images/print-icon.png"  alt="print"  title="Print"> </a>
+ <a class="print" onclick="javascript: window.print()" title="Print" href="javascript: void(0)"> <img src="<?php echo  $base_path . $directory ?>/images/print-icon.png"  alt="print"  title="Print"> </a>
   </div>
  </div>
 </div>

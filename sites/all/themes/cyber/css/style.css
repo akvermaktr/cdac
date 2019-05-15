@@ -1331,7 +1331,7 @@ caption {color: #777;padding-bottom: 8px !important; padding-top: 8px !important
 .heading-whats-new {background: #381dad;border-radius: 0px;color: #fff;}
 .user-link ul li {margin: 0;float: left;padding: 8px 10px;background-color: #000080;margin: 0px 3px 0px 0px;border-radius: 5px;}
 .user-link ul li a {color: #fff;}
-.top-menu-bg {background-color: #2e3192;}
+.top-menu-bg {background-color: #2e3192; overflow:hidden;}
 .copy-right {text-align: center; width: 100%; line-height:55px; background-color:#2c67f4; color:#becada; font-size: 14px; float:left;}
 .circle-background {background-image: linear-gradient(to right, #243cb5, #2c42b4, #3348b2, #3a4eb1, #4153af); float: left; width: 100%;}
 .modern-ticker1 { background-color: #FFF !important;}

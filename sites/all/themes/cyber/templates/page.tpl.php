@@ -25,6 +25,10 @@
                 <ul class="top-menu" id="example1">
                     <li class="skip-to-m-h"><a href="#MainDiv" title="Skip to Main Content" tabindex="1">Skip to Main Content</a></li>
                     <li class="screen-reader-m-h" title="Screen Reader Access"><a href="/content/screen-reader-access" title="Screen Reader Access">Screen Reader Access</a></li>
+					<li class="screen-reader-m-h" title="Login"><a href="/user/login" title="Screen Reader Access">Login </a></li>
+					
+					<li class="screen-reader-m-h" title="Screen Reader Access"><a href="/user/register" title="Register">Register</a></li>
+					
                     <li class="screen-reader-m-h"><a href="javascript:void(0);" title="Increase font size" onClick="set_font_size('increase')">A<sup>+</sup><span class="hidethis">Increase font size</span></a></li>
                     <li class="screen-reader-m-h"><a href="javascript:void(0);" title="Reset font size" onClick="set_font_size('')">A <span class="hidethis">Reset font size</span></a></li>
                     <li class="screen-reader-m-h"><a href="javascript:void(0);" title="Decrease font size" onClick="set_font_size('decrease')" >A<sup>-</sup> <span class="hidethis">Decrease font size</span></a></li>
